@@ -2,3 +2,4 @@
 "Git is awesome ))"
 "Git is really awesome"
 new string in file
+"and again"
