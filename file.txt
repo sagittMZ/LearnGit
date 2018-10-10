@@ -6,3 +6,4 @@
 new string in file
 "and again"
 after stash
+create another line
