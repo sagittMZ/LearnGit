@@ -1,9 +1,2 @@
-"line from terminal"
-"line from github"
-"Hello git"
-"Git is awesome ))"
-"Git is really awesome"
-new string in file
-"and again"
-after stash
+"make some changes in master|origin"
 create another line
